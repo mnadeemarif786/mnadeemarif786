@@ -20,7 +20,7 @@
 
 ## About Me
 
-I'm a software engineer with 7+ years of professional experience building, developing, and maintaining web applications, CMS platforms, eCommerce solutions, and business-focused software.
+I'm a software engineer with years of professional experience building, developing, and maintaining web applications, CMS platforms, eCommerce solutions, and business-focused software.
 
 My work combines traditional software engineering with modern AI technologies. I develop custom WordPress solutions, Shopify storefronts, eCommerce platforms, web applications, AI agents, conversational systems, and automated business workflows.
 
